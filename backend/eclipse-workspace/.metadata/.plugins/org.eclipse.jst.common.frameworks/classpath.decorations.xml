@@ -1,0 +1,7 @@
+<classpath>
+  <container id="Jupiter!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="/Users/lilygao/Documents/eclipse-workspace/Jupiter/WebContent/WEB-INF/lib/mysql-connector-java-8.0.21.jar">
+      <source-attachment-path>/Users/lilygao/Documents/mysql-connector-java-8.0.21</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

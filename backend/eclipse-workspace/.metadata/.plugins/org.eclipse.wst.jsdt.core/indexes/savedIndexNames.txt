@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/lilygao/Documents/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1993738688.index
+156989242.index
+3026521838.index
+3418241260.index
+2584656856.index
+4272039820.index
